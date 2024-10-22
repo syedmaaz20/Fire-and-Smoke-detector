@@ -11,7 +11,7 @@ Deep Learning Model: Utilizes a CNN architecture to automatically learn and extr
 Real-time Detection: The model is designed to work in real-time environments, providing instant feedback to prevent potential disasters.
 
 Dataset: A custom dataset of fire and smoke images is collected from various sources, including open datasets, and is augmented to improve the model's robustness against different environments and lighting conditions. 
-link: https://drive.google.com/drive/folders/1Tx0C7ZUiyt0iRWnbrMp_tNgFZbFKNhLR?usp=sharing
+Data_set_Link: https://drive.google.com/drive/folders/1Tx0C7ZUiyt0iRWnbrMp_tNgFZbFKNhLR?usp=sharing
 
 Model Training: The CNN model is trained using Keras with TensorFlow backend. Techniques like data augmentation, dropout, and batch normalization are employed to improve accuracy and prevent overfitting.
 
@@ -38,12 +38,9 @@ Forest Fire Detection: Useful for detecting early signs of forest fires in outdo
 Smart Cities: Can be a critical component of smart city infrastructures, ensuring quick responses to fire hazards in public spaces.
 
 
-Conclusion:
+# Conclusion:
 
 The Fire and Smoke Detection System is an AI-based solution aimed at providing accurate and reliable detection of fire and smoke to reduce response time and mitigate damage in fire-related incidents. The project leverages CNN's feature extraction capabilities along with Keras’s flexibility for fast and effective model development.
 
 
-# Fire-and-Smoke-detector
-Data_set_Link:
 
-https://drive.google.com/drive/folders/1Tx0C7ZUiyt0iRWnbrMp_tNgFZbFKNhLR?usp=sharing
